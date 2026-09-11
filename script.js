@@ -7,7 +7,7 @@ const cars = [
     { name:'Toyota V8 Land Cruiser LC300', image:'images/Landrover.jpeg', seats:7, fuel:'Petrol', type:'Premium SUV', premium:true, page:'cars/toyota-v8-land-cruiser.html', waText:'Hi%2C%20I%20need%20Toyota%20V8%20Land%20Cruiser%20LC300' },
     { name:'Toyota Corolla', image:'images/Corolla.jpeg', seats:5, fuel:'Petrol', type:'Sedan', page:'cars/toyota-corolla.html', waText:'Hi%2C%20I%20need%20Toyota%20Corolla' },
     { name:'Audi A5', image:'images/Audi A5.jpeg', seats:5, fuel:'Petrol', type:'Luxury', page:'cars/audi-a5.html', waText:'Hi%2C%20I%20need%20Audi%20A5' },
-    { name:'Audi A6', image:'images/Mercedes.jpeg', seats:5, fuel:'Petrol', type:'Luxury', page:'cars/audi-a6.html', waText:'Hi%2C%20I%20need%20Audi%20A6' }
+    { name:'Audi A6', image:'images/Audi A6.jpg', seats:5, fuel:'Petrol', type:'Luxury', page:'cars/audi-a6.html', waText:'Hi%2C%20I%20need%20Audi%20A6' }
 ];
 
 // ===== Render Fleet =====
